@@ -5,4 +5,4 @@
 
 ### uses different techniques for displaying and updating dynamic data in the Vue apps
 
-<img src="https://github.com/ericapayne/ticket-box-vue/blob/main/vtb.PNG" width="50%" />
+<img src="https://github.com/ericapayne/ticket-box-vue/blob/main/vtb.PNG" width="75%" />
